@@ -1,0 +1,11 @@
+D:\Test\scharp-exemple\scharp-exemple\bin\Debug\scharp-exemple.dll
+D:\Test\scharp-exemple\scharp-exemple\bin\Debug\scharp-exemple.pdb
+D:\Test\scharp-exemple\scharp-exemple\bin\Debug\nunit.framework.dll
+D:\Test\scharp-exemple\scharp-exemple\bin\Debug\WebDriver.dll
+D:\Test\scharp-exemple\scharp-exemple\bin\Debug\WebDriver.Support.dll
+D:\Test\scharp-exemple\scharp-exemple\bin\Debug\nunit.framework.xml
+D:\Test\scharp-exemple\scharp-exemple\bin\Debug\WebDriver.xml
+D:\Test\scharp-exemple\scharp-exemple\bin\Debug\WebDriver.Support.xml
+D:\Test\scharp-exemple\scharp-exemple\obj\Debug\scharp-exemple.csprojResolveAssemblyReference.cache
+D:\Test\scharp-exemple\scharp-exemple\obj\Debug\scharp-exemple.dll
+D:\Test\scharp-exemple\scharp-exemple\obj\Debug\scharp-exemple.pdb
